@@ -1,7 +1,8 @@
-[6:52 pm, 31/05/2021] Laxman: main()
+[6:52 pm, 31/05/2021] mahi reddy: main()
 {
  int i,j, sum;
- i=4'j=5
+ i=2'j=3
  printf(" The sum of 2 no.s is : %d", sum);
  getch():
  }
+clear the sum
